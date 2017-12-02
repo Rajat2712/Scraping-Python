@@ -18,7 +18,9 @@ You can perform web scrapping in various ways, including use of Google Docs to a
 ## Other useful HTML tags are:
 
 HTML links are defined with the <a> tag, “<a href=“http://www.test.com”>This is a link for test.com</a>”
+ 
 HTML tables are defined with<Table>, row as <tr> and rows are divided into data as <td>
+
 HTML list starts with <ul> (unordered) and <ol> (ordered). Each item of list starts with <li>
 
 ![table](https://user-images.githubusercontent.com/23000971/33509615-1df17280-d729-11e7-9876-5c3c75c7285d.png)
