@@ -16,7 +16,7 @@ You can perform web scrapping in various ways, including use of Google Docs to a
 <!DOCTYPE html> : HTML documents must start with a type declaration
 HTML document is contained between <html> and </html>
 The visible part of the HTML document is between <body> and </body>
-HTML headings are defined with the <h1> to <h6> tags
+HTML headings are defined with the <!<h1> to <h6> tags>
 HTML paragraphs are defined with the <p> tag
   
 ## Other useful HTML tags are:
