@@ -13,12 +13,8 @@ You can perform web scrapping in various ways, including use of Google Docs to a
 
 ![html](https://user-images.githubusercontent.com/23000971/33509613-1dc5768a-d729-11e7-8e13-4d8845566bd0.png)
 
-<!DOCTYPE html> : HTML documents must start with a type declaration
-HTML document is contained between <html> and </html>
-The visible part of the HTML document is between <body> and </body>
-HTML headings are defined with the "<h1>" to "<h6>" tags
-HTML paragraphs are defined with the <p> tag
-  
+![capture](https://user-images.githubusercontent.com/23000971/33509704-e6399e52-d729-11e7-9347-749a6401d477.JPG)
+
 ## Other useful HTML tags are:
 
 HTML links are defined with the <a> tag, “<a href=“http://www.test.com”>This is a link for test.com</a>”
